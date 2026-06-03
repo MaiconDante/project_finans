@@ -4,7 +4,7 @@ Projeto desenvolvido durante o curso **Desenvolvimento Web Completo** da Udemy, 
 
 ## 📸 Demonstração
 
-![Finans Preview] - **URL** -> <a href="https://maicondante.github.io/Projeto_Finans/">
+**URL** -> <a href="https://maicondante.github.io/Projeto_Finans/">Projeto Finans</a>
 
 ---
 
